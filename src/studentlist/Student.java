@@ -18,8 +18,6 @@ public class Student {
         return name;
     }//geter method to get the data
 
-    public void setName(String name) {
-        this.name = name;
-    }
+    
    //setter method to set the value of method.
 }
